@@ -1,6 +1,6 @@
 #GitHub Desktop Nord
 
-![Screenshot Dark](https://raw.githubusercontent.com/Studio-Volantis/github-desktop-nord/main/Screenshot%202022-12-09%20151902.png)
+![Screenshot Dark](Screenshots/1.png?raw=true)
 
 
 update the file found in the following path
