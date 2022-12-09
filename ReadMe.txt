@@ -1,5 +1,5 @@
 #GitHub Desktop Nord color theme
-![GitHub DEsktop Screenshot](/Screenshot 2022-12-09 151902.png)
+![GitHub DEsktop Screenshot](https://github.com/Studio-Volantis/github-desktop-nord/blob/main/Screenshot%202022-12-09%20151902.png?raw=true)
 
 
 
