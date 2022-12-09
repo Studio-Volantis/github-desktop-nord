@@ -1,9 +1,9 @@
-#GitHub Desktop Nord
+# GitHub Desktop Nord
 
 ![Screenshot Dark](Screenshots/1.png?raw=true)
 
 
-update the file found in the following path
+## Update the files found in the following path
 
-C:\Users\"UserAccount"\AppData\Local\GitHubDesktop\app-3.1.2\resources\app\renderer.css
-C:\Users\"UserAccount"\AppData\Local\GitHubDesktop\app-3.1.2\resources\app\renderer.js
+- C:\Users\"UserAccount"\AppData\Local\GitHubDesktop\app-3.1.2\resources\app\renderer.css
+- C:\Users\"UserAccount"\AppData\Local\GitHubDesktop\app-3.1.2\resources\app\renderer.js
